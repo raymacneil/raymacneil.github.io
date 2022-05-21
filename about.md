@@ -2,6 +2,6 @@
 layout: default
 title: Ray MacNeil - About
 ---
-# About Me
+# About Raymond MacNeil
 
-This page tells you a little about me.
+I an adventurous, ambitious, and eclectic primate with a dark and sarcastic sense of humour.
