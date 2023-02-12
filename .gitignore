@@ -10,3 +10,4 @@ vendor
 # Ignore specific file
 raymacneil.xcworkspace
 .DS_Store
+.Rproj.user
